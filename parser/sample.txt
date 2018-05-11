@@ -1,0 +1,1 @@
+boolean pali = true; if(pali){print("Pali is equal to true");}else{print("Pali is equal to false");} int a =0; do {println(a); a++;}while(a <5); int i; for(i = 6; i>=3; i--){println(i);} int b = 3; while(b>=0){print("Hello"); b--;}
